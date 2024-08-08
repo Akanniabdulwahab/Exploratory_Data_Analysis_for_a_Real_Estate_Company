@@ -1,0 +1,2 @@
+# Exploratory_Data_Analysis_for_a_Real_Estate_Company
+This project aims to analyze and understand the factors affecting residential home prices in Ames, Iowa. By leveraging data science techniques, the project explores various features that influence house pricing, with the aim of gaining insights into the factors that determine residential home prices in Ames, Iowa through Exploratory Data Analysis.
