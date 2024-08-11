@@ -9,7 +9,7 @@
 - [Data Preprocessing](#data-preprocessing)
 - [Exploratory Data Analysis (EDA)](#exploratory-data-analysis-EDA)
 - [Some Key Insights](#some-key-insights)
-
+- [Conclusion](#conclusion)
 
 ## Project Overview
 This project aims to understand every aspect of the residential homes pricing market in Ames, Iowa, with a view of establishing an outlet in Iowa.
@@ -39,4 +39,8 @@ Extensive data-preprocessing was performed. This included handling missing value
 - SBrkr has the highest number of usage compared to Mix which has the least.
 - The most preferred exteriorist are the VinylSd, HdBoard, MetalSd, Wd Sdng, Plywood.
 - SalePrices are almost the same althrough the years and we have overpriced houses from 350000 above.
+
+## Conclusion
+Through an in-depth exploratory data analysis of the Ames, Iowa housing market, we've identified key factors influencing residential home prices. The analysis uncovered the impact of variables such as overall quality, house style, neighborhood, year of construction and so on. These insights provide a robust foundation for the Real Estate Company to make data-driven decisions as they plan to establish an outlet in Iowa. By understanding these critical pricing determinants, the company can strategically position itself within the local market to maximize profitability and cater to the specific demands of the Ames residential housing sector.
+
 
