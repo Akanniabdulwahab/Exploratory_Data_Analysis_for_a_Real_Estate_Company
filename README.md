@@ -27,3 +27,16 @@ Extensive data-preprocessing was performed. This included handling missing value
 - **Univariate Analysis**
 - **Bivariate Analysis**
 - **Multivariate Analysis**
+
+## Some Key Insights
+- Residential High Density (RL) has the highest number of all the zoning classification followed by the Residential Medium Density (RM) then Commercial (C).
+- 78.82% of the houses from the dataset fall within RL.
+- Normal has the most count followed by Partial and then Abnormal, then least are Family, Alloca and AdjLand when it comes to sale condition.
+- WD (Warranty Deed) has the most number followed by New (Home just constructed and sold) for SaleType.
+- NAmes neighborhood has the most physical location within Ames city limits followed by CollgCr, OldTown and the least are Sawyer, NWAmes, and SawyerW.
+- One story building is most preferred house style while 2.5Fin is the least preferred house style.
+- PConc is the most used type of foundation whereas Wood is the least preferred one.
+- SBrkr has the highest number of usage compared to Mix which has the least.
+- The most preferred exteriorist are the VinylSd, HdBoard, MetalSd, Wd Sdng, Plywood.
+- SalePrices are almost the same althrough the years and we have overpriced houses from 350000 above.
+
