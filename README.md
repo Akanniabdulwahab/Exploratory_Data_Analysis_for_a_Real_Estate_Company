@@ -24,3 +24,6 @@ This involved importing the dataset, ivestigated if the features are in their co
 Extensive data-preprocessing was performed. This included handling missing values, droppig off uwated features.
 
 ## Exploratory Data Analysis (EDA)
+- **Univariate Analysis**
+- **Bivariate Analysis**
+- **Multivariate Analysis**
