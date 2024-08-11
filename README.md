@@ -7,8 +7,8 @@
 - [Project Objective](#project-objective)
 - [Data Overview](#data-overview)
 - [Data Preprocessing](#data-preprocessing)
-- [Exploratory Data Analysis (EDA)](#exploratory-data-analysis)
-- [Some Key Insights](#key-insights)
+- [Exploratory Data Analysis (EDA)](#exploratory-data-analysis-EDA)
+- [Some Key Insights](#some-key-insights)
 
 
 ## Project Overview
