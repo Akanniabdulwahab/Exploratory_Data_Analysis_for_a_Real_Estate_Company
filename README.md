@@ -24,9 +24,9 @@ This involved importing the dataset, ivestigated if the features are in their co
 Extensive data-preprocessing was performed. This included handling missing values, droppig off uwated features.
 
 ## Exploratory Data Analysis (EDA)
-- **Univariate Analysis**
-- **Bivariate Analysis**
-- **Multivariate Analysis**
+- **Univariate Analysis**: Exploring each features individually.
+- **Bivariate Analysis**: Exploring each features against the salesprice feature.
+- **Multivariate Analysis**: Exploring two or more features against the salesprice feature.
 
 ## Some Key Insights
 - Residential High Density (RL) has the highest number of all the zoning classification followed by the Residential Medium Density (RM) then Commercial (C).
