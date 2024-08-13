@@ -12,7 +12,8 @@
 - [Conclusion](#conclusion)
 
 ## Project Overview
-This project aims to understand every aspect of the residential homes pricing market in Ames, Iowa, with a view of establishing an outlet in Iowa.
+This project aims to explore the factors influencing residential home prices in Ames, Iowa. The analysis will provide insights into key variables that affect property values, helping the real estate company make informed decisions about establishing an outlet in the area.
+
 
 ## Project Objective
 The primary objective of this project is to explore the Dataset, and come up with insights that will aid the management to understand how exactly the prices of their home vary with the independent variables.They can accordingly fit their business strategy etc. to meet certain price levels. This Exploration will be a good way for management to understand the pricing dynamics of the housing and estate market.
