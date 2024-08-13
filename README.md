@@ -21,7 +21,7 @@ The primary objective of this project is to explore the Dataset, and come up wit
 This involved importing the dataset, ivestigated if the features are in their correct datatypes, checked the shape of the dataset, investigated the missing values, performed statistical analysis of numerical & categorical datapoints.
 
 ## Data Preprocessing
-Extensive data-preprocessing was performed. This included handling missing values, droppig off uwated features.
+Extensive data-preprocessing was performed. This included handling missing values, droppig off redundant features.
 
 ## Exploratory Data Analysis (EDA)
 - **Univariate Analysis**: Exploring each features individually.
