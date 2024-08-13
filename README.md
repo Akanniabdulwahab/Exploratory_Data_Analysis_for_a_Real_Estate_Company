@@ -9,6 +9,7 @@
 - [Data Preprocessing](#data-preprocessing)
 - [Exploratory Data Analysis (EDA)](#exploratory-data-analysis-EDA)
 - [Some Key Insights](#some-key-insights)
+- [Recommendations](#recommendations)
 - [Conclusion](#conclusion)
 
 ## Project Overview
@@ -40,6 +41,16 @@ Extensive data-preprocessing was performed. This included handling missing value
 - SBrkr has the highest number of usage compared to Mix which has the least.
 - The most preferred exteriorist are the VinylSd, HdBoard, MetalSd, Wd Sdng, Plywood.
 - SalePrices are almost the same althrough the years and we have overpriced houses from 350000 above.
+
+## Recommendations
+Based on the exploratory data analysis of the Ames, Iowa housing market, I recommend Company focus on the following key factors to guide their market entry strategy:
+
+- Prioritize High-Quality Builds: Homes with higher overall quality ratings tend to command premium prices. Emphasizing the construction of high-quality residences or targeting areas with such homes can be a lucrative strategy.
+- Consider Living Area and Neighborhood: The size of the living area and the neighborhood significantly influence home prices. Investing in properties with larger living spaces in desirable neighborhoods should be prioritized.
+- Leverage Market Trends: Pay attention to the year of construction, as newer homes often fetch higher prices. Analyzing trends in newer developments can provide insights into future market opportunities.
+- Tailor Offerings to Local Preferences: Understanding local preferences and trends is crucial. Customizing offerings to match the specific needs of the Ames community will enhance market penetration and customer satisfaction.
+
+By focusing on these factors, the company can position itself strategically in the Ames housing market, ensuring a successful entry and long-term growth.
 
 ## Conclusion
 Through an in-depth exploratory data analysis of the Ames, Iowa housing market, we've identified key factors influencing residential home prices. The analysis uncovered the impact of variables such as overall quality, house style, neighborhood, year of construction and so on. These insights provide a robust foundation for the Real Estate Company to make data-driven decisions as they plan to establish an outlet in Iowa. By understanding these critical pricing determinants, the company can strategically position itself within the local market to maximize profitability and cater to the specific demands of the Ames residential housing sector.
