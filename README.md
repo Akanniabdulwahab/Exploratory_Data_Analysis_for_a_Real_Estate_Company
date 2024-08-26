@@ -13,7 +13,7 @@
 - [Conclusion](#conclusion)
 
 ## Project Overview
-This project aims to explore the factors influencing residential home prices in Ames, Iowa. The analysis will provide insights into key variables that affect property values, helping the real estate company make informed decisions about establishing an outlet in the area.
+A Real Estate Company wants to understand every aspect of the residential homes pricing market and to understand the factors on which the pricing of houses depends in Ames, Iowa, with a view of establishing an outlet in lowa
 
 
 ## Project Objective
